@@ -14,6 +14,7 @@ To use the calculator, simply open the `index.html` file in your web browser. Th
 
 ```bash
 open index.html
+```
 ## Usage
 - Enter the first number using the number buttons.
 - Select the desired operation (+, -, *, /).
