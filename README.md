@@ -12,9 +12,6 @@ Welcome to the Simple Calculator project! This project provides a basic calculat
 
 To use the calculator, simply open the `index.html` file in your web browser. The calculator interface will be displayed, allowing you to perform mathematical operations.
 
-```bash
-open index.html
-```
 ## Usage
 - Enter the first number using the number buttons.
 - Select the desired operation (+, -, *, /).
@@ -26,3 +23,7 @@ open index.html
 
 ## Contributing
 - If you have suggestions or want to contribute to this project, please open an issue or create a pull request on GitHub.
+
+```bash
+open index.html
+```
